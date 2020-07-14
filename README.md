@@ -4,7 +4,7 @@
 
 ## Profession experience: ##
 
-#### Virtuslab: Scala Specialist December 2011 - present
+#### Virtuslab: Scala Specialist December 2011 - present-------------------------
 (previously Senior Scala Developer, Scala Developer)
 * Specialised Scala Tooling - creating unified tooling for huge Scala worksapces including specialised compilers, debugger 
   
